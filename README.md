@@ -4,9 +4,9 @@ For the game rules used in this project please visit https://baccaratsystem.org/
 
 ## The code functionality and description:
 
-  #define BACCARAT_MAX_N_CARDS 3
+   #define BACCARAT_MAX_N_CARDS 3
 
-  typedef enum {
+   typedef enum {
   dealer_win, 
   player_win,
   tie
