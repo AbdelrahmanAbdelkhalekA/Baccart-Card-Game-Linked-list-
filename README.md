@@ -1,5 +1,5 @@
-# Baccart Card Game
-
+# Baccart Card Project
+This project is an linked-list implementation of an baccart card game.
 
 
 
