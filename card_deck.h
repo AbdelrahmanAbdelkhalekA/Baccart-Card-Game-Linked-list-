@@ -1,7 +1,3 @@
-//
-// Created by Connor Fuhrman on 1/25/22.
-//
-
 #ifndef BLACKJACK_CARD_DECK_H
 #define BLACKJACK_CARD_DECK_H
 
