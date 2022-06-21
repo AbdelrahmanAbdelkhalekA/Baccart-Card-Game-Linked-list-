@@ -7,16 +7,16 @@ The code functionality and description:
   #define BACCARAT_MAX_N_CARDS 3
 
   typedef enum {
-    dealer_win, 
-    player_win, 
-    tie
+  dealer_win, 
+  player_win,
+  tie
   } baccarat_outcome_t;
 
   typedef struct {
-    card_deck_t* deck;
-    unsigned int num_decks;
-    card_t player_cards[BACCARAT_MAX_N_CARDS], dealer_cards[BACCARAT_MAX_N_CARDS];
-    unsigned int num_player_cards, num_dealer_cards;
-    unsigned int player_score, dealer_score;
+  card_deck_t* deck;
+  unsigned int num_decks;
+  card_t player_cards[BACCARAT_MAX_N_CARDS], dealer_cards[BACCARAT_MAX_N_CARDS];
+  unsigned int num_player_cards, num_dealer_cards;
+  unsigned int player_score, dealer_score;
   } baccarat_game_t;
 
