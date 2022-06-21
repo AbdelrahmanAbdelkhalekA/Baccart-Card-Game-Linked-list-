@@ -2,7 +2,7 @@
 
 For the game rules used in this project please visit https://baccaratsystem.org/baccarat-drawing-rules/  and https://baccaratsystem.org/wp-content/uploads/2014/08/drawing-rules-baccarat.jpg
 
-The code functionality and description:
+## The code functionality and description:
 
   #define BACCARAT_MAX_N_CARDS 3
 
