@@ -19,7 +19,7 @@ If the player was dealt a third card then the dealer takes a third card correspo
 of the player's third card. Find the specific rules [here](https://baccaratsystem.org/wp-content/uploads/2014/08/drawing-rules-baccarat.jpg). 
 Finally, the game has three possible outcomes: a tie, the player wins, or the dealer wins.
 
-## Data Type decription:
+## Data Type description:
 You must utilize the predefined `enum` and `struct` types to describe a baccarat game's outcome and the game itself, respectively: 
 
 ```c
@@ -49,7 +49,7 @@ The members `num_player_cards` and `num_dealer_cards` describe how many cards th
 The members `player_score` and `dealer_score` describe the player's and the dealer's score during the game. 
 
 
-## Code's functions desprition and functionality:
+## Code's functions description and functionality:
 
 ```c
 void start_baccarat(baccarat_game_t*, unsigned int);
